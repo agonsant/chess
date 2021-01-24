@@ -1,0 +1,5 @@
+/*
+player info 
+*/
+
+class Player{}
